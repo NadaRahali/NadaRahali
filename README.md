@@ -104,7 +104,7 @@ languages_spoken: ["Arabic", "French", "English", "Finnish"]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaRahali&layout=compact&theme=radical" height="165"/>
 </p>
 
-<!--![Snake animation](https://github.com/NadaRahali/NadaRahali/blob/output/github-contribution-grid-snake.svg)-->
+![snake gif](https://github.com/NadaRahali/NadaRahali/blob/output/github-snake-dark.svg)
 
 
 
