@@ -108,6 +108,8 @@ languages_spoken: ["Arabic", "French", "English", "Finnish"]
 
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thanks for stopping by!</b> Don’t hesitate to drop a message — I’d love to connect 🤝</em>
+
 
 
 
