@@ -6,7 +6,7 @@
 -->
 
 
-I’m Nada. I spend most of my time working with data, software, and building projects that connect what I study with real life. I’ve been working with Python, Matlab, SQL, Docker, React, and Node.js — and I enjoy figuring things out step by step.
+I’m Nada. I spend most of my time working with data, software, and building projects that connect what I study with real life. I’ve been working with Python, SQL, Matlab, Docker, React, and Node.js — and I enjoy figuring things out step by step.
 <br/>
 <br/>
 
