@@ -41,7 +41,6 @@ hackathon_experience:
       - "Developed a functional demo using React Native, Supabase, and PostgreSQL."
       - "Enabled live testing: participants accessed the app via QR code, and jury members tested it directly on our phones."
       - "Pitched the solution to judges and secured 1st prize among competing teams."
-
   ]
 work_experience:
   [
