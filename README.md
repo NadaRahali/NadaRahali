@@ -32,6 +32,10 @@ current_project:
   [
     "Enterprise-grade product recommendation system using knowledge graphs & multi-factor scoring",
   ]
+hackathon_experience:
+  [
+    "1st Prize Winner — Startup Refugees Hackathon 2025 (Sponsored by Tietoevry & Netlight): Designed and prototyped a job seeker–coach connection platform with Figma, React Native, Supabase, and PostgreSQL; delivered live demo and testing via QR code.",
+  ]
 work_experience:
   [
     "Software Engineer @ Joyride Games Oy (Nov 2023 – Mar 2024)",
