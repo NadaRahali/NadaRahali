@@ -34,7 +34,14 @@ current_project:
   ]
 hackathon_experience:
   [
-    "1st Prize Winner — Startup Refugees Hackathon 2025 (Sponsored by Tietoevry & Netlight): Designed and prototyped a job seeker–coach connection platform with Figma, React Native, Supabase, and PostgreSQL; delivered live demo and testing via QR code.",
+      - title: "1st Prize Winner — Startup Refugees Hackathon 2025 (Sponsored by Tietoevry & Netlight)"
+    Details:
+      - "Collaborated in a team of three to design and develop a job seeker–coach connection platform."
+      - "Created a complete Figma design showcasing the mobile app’s user journey and interface."
+      - "Developed a functional demo using React Native, Supabase, and PostgreSQL."
+      - "Enabled live testing: participants accessed the app via QR code, and jury members tested it directly on our phones."
+      - "Pitched the solution to judges and secured 1st prize among competing teams."
+
   ]
 work_experience:
   [
