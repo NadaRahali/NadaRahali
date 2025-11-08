@@ -127,7 +127,6 @@ languages_spoken: ["Arabic", "French", "English", "Finnish"]
 ![RMarkdown](https://img.shields.io/badge/RMarkdown-2A50A1?style=for-the-badge&logo=rstudio&logoColor=white)
 
 
-
 ### 💾 Data Engineering & Database Tools:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Processes-217346?style=for-the-badge&logoColor=white)
@@ -135,9 +134,10 @@ languages_spoken: ["Arabic", "French", "English", "Finnish"]
 
 
 ### 💻 Development & Computational Environments:
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CSC Mahti](https://img.shields.io/badge/CSC_Mahti_Supercomputer-0055A4?style=for-the-badge&logo=superuser&logoColor=white)
